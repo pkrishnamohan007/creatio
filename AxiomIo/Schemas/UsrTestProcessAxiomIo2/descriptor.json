@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "f28d5738-d5e9-44e2-8610-f1269fb839d9",
+    "Name": "UsrTestProcessAxiomIo2",
+    "ModifiedOnUtc": "\/Date(1669206345000)\/",
+    "Parent": {
+      "UId": "2d9dcee1-ab52-435a-8440-8c47d109a940",
+      "Name": "UsrTestProcess"
+    },
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Test process"
+  }
+}
