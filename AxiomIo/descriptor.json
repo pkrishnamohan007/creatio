@@ -1,0 +1,17 @@
+﻿{
+  "Descriptor": {
+    "UId": "e8feb472-bc95-c6b0-5ee7-47c8d42444ed",
+    "Name": "AxiomIo",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1669199772000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/AxiomIo.csproj",
+    "DependsOn": [
+      {
+        "UId": "d7559847-f38e-410c-baee-6f43bbe80d42",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterpriseSoftkey_ENU"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/AxiomIo/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/AxiomIo/Data/**" />
+		<Compile Remove="$(PkgPath)/AxiomIo/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/AxiomIo/Schemas\**" />
+		<Compile Remove="$(PkgPath)/AxiomIo/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/AxiomIo/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/AxiomIo/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/AxiomIo/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/AxiomIo/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/AxiomIo/Resources/**" />
+		<None Remove="$(PkgPath)/AxiomIo/Assemblies/**" />
+		<None Remove="$(PkgPath)/AxiomIo/Data/**" />
+		<None Remove="$(PkgPath)/AxiomIo/SqlScripts/**" />
+		<None Remove="$(PkgPath)/AxiomIo/Schemas/**" />
+		<None Remove="$(PkgPath)/AxiomIo/Resources/**" />
+  </ItemGroup>
+</Project>
