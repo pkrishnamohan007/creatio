@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "94e37d41-9fa7-489b-9787-922f5d6bc312",
+    "Name": "UsrApp_erbb5fd",
+    "Type": 1,
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrApp_erbb5fd.csproj",
+    "DependsOn": []
+  }
+}
